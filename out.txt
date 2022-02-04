@@ -1,0 +1,15 @@
+= = = Original input = = = 
+hallooo
+hello
+hii
+it
+morning
+evening
+computer
+blabla
+
+= = = Metadata = = = 
+= = = Findings = = =
+Line #1 hallooo - Possible suggestion is: yellow
+Line #3 hii - Possible suggestion is: worship
+Line #8 blabla - Possible suggestion is: vocabulary
